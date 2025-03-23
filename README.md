@@ -3,7 +3,7 @@
 🚀 Tech enthusiast, always learning and building cool things!  
 📊 Data lover with a passion for Machine Learning, AI, and Visualization.  
 🧩 I enjoy solving complex problems and making data tell a story.  
-🎯 Always seeking new challenges and collaborations!  
+
 
 📫 Reach me at: [elena.torralbo@opendeusto.es]  
 
