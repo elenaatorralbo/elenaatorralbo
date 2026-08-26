@@ -75,11 +75,14 @@ Some of the areas I've worked on include:
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="850">
+  <img src="./profile/overview.light.svg" width="700">
+</p>
+
+<p align="center">
+  <img src="./profile/languages.light.svg" width="700">
 </p>
 ---
 
