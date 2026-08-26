@@ -77,11 +77,10 @@ Some of the areas I've worked on include:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenaatorralbo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenaatorralbo&theme=gruvbox_light&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenaatorralbo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaatorralbo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaatorralbo&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 ---
 
