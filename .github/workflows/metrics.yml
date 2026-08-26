@@ -1,27 +1,27 @@
-name: GitHub Metrics
+name: Update GitHub Profile Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  metrics:
+  cards:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-          user: elenaatorralbo
-          template: classic
-          base: header, activity, community, repositories
-
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: elenaatorralbo
+          cards: overview,languages
+          output-dir: profile
+          themes: light
+          commit: true
