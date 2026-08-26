@@ -1,71 +1,94 @@
-# ✨ Hey there! I'm Elena  
+# 👋 Hi, I'm Elena
 
-🚀 Tech enthusiast, always learning and building cool things!  
-📊 Data lover with a passion for Machine Learning, AI, and Visualization.  
-🧩 I enjoy solving complex problems and making data tell a story.  
+🎓 **Computer Engineering + Data Science & Artificial Intelligence** student at Universidad de Deusto.
 
+📊 Interested in **Data Architecture, Data Engineering, Analytics, Cloud Technologies and Artificial Intelligence**.
 
-📫 Reach me at: [elena.torralbo@opendeusto.es]  
-
----
-
-## 🌐 Connect with me:  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elena)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elenaatorralbo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-torralbo-5b833514a/)  
+I enjoy understanding how data is organised across complex systems, working with different teams and turning business and technical requirements into structured data solutions.
 
 ---
 
-# 💻 Tech Stack:  
-🔥 **Programming & Scripting:**  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2300a65a?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+## 🧠 What I know
 
-📊 **Data & AI:**  
-![Machine Learning](https://img.shields.io/badge/Machine--Learning-%23FFA500?style=for-the-badge&logo=machine-learning&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep--Learning-%2300008B?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data--Science-%231E90FF?style=for-the-badge&logo=data-science&logoColor=white)  
-![Data Visualization](https://img.shields.io/badge/Data--Visualization-%23FF4500?style=for-the-badge&logo=dataviz&logoColor=white)  
+### 🗄️ Data & Architecture
+- Data Architecture and Data Modelling
+- Data Governance and Data Quality
+- Relational Databases and SQL
+- Data Warehousing
+- Data Integration and Data Management
+- Data structures, naming conventions and standards
 
-🛠 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
+### 📊 Data Science & Machine Learning
+- Data Analysis and Exploratory Data Analysis
+- Machine Learning
+- Model evaluation and validation
+- Feature engineering
+- Classification and regression
+- Ensemble methods and model optimisation
 
----
+### ☁️ Cloud & AI
+- **AWS**
+- Amazon Bedrock
+- Knowledge Bases
+- Cloud-based data and AI solutions
+- Generative AI
 
-# 📊 GitHub Stats:  
-💡 *Some numbers because data is life!*  
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300A65A.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenaatorralbo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenaatorralbo&theme=gruvbox_light&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaatorralbo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-# 🎯 Favorite Technologies:  
-- 🐍 **Python** – My go-to language for almost everything.  
-- 🤖 **Machine Learning & AI** – The future is now!  
-- 📈 **Data Science & Visualization** – Transforming raw data into insights.  
-- 💾 **SQL & Databases** – Because data needs a home.  
-- ☁️ **Cloud Computing & Docker** – Scaling things up!  
-
----
-
-### 🎵 Fun Fact:  
-🎧 I code better with music. Got any playlist recommendations? 😃  
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🔝 Top Contributed Repos  
-📌 Some of my favorite contributions and projects:  
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=elenaatorralbo&limit=5&theme=flat&combine_all_yearly_contributions=true)  
+## 🎯 Areas I'm particularly interested in
+
+**Data Architecture** · **Data Engineering** · **Data Governance** · **Banking & Financial Data** · **Cloud** · **Artificial Intelligence** · **Machine Learning**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=elenaatorralbo&icon=1&color=0)](https://visitcount.itsvg.in)  
+## 📂 Projects
+
+Some of the areas I've worked on include:
+
+🔹 **Machine Learning** — classification, regression, model comparison and optimisation.
+
+🔹 **Data Analysis** — exploratory analysis, feature engineering and visualisation.
+
+🔹 **Software Engineering** — application development, databases and collaborative software projects.
+
+🔹 **AI & Cloud** — experimentation with AWS services and Generative AI.
 
 ---
 
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-torralbo-5b833514a/)
+
+📫 **Email:** elena.torralbo@opendeusto.es
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elenaatorralbo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elenaatorralbo&theme=gruvbox_light&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaatorralbo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🎧 A little more about me
+
+I enjoy working on challenging problems, learning new technologies and, naturally, doing it all with music in the background. 🎶
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=elenaatorralbo&icon=1&color=0)](https://visitcount.itsvg.in)
